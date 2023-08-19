@@ -1,0 +1,5 @@
+training.csv--y_train
+prediction.csv--y_test
+df_train2 --X_train
+df_test - df_train2 --X_test
+df_test -- X_train + X_test
