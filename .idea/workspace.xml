@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c062838a-b75d-4a08-955f-a23a9d4b1a92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Overview.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.ipynb.orig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="c062838a-b75d-4a08-955f-a23a9d4b1a92" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +44,7 @@
       <workItem from="1692409035046" duration="263000" />
       <workItem from="1692409330214" duration="11762000" />
       <workItem from="1692421638290" duration="6020000" />
-      <workItem from="1692428516321" duration="4966000" />
+      <workItem from="1692428516321" duration="5311000" />
     </task>
     <servers />
   </component>
